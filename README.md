@@ -115,7 +115,4 @@ WHERE sy.symptoms='Confusion';
  - What ingredients are available to subsitute for a specific food allergen?
  - How does one know the symptoms of a specific food allergen?
  
-## Contacts:
- - [Abayomi Olujobi](https://github.com/bay0624)
- - [Andy Jagdeo](https://github.com/Andyjag91)
- - [Saumya Pandey](https://github.com/saumya-datascience)
+
