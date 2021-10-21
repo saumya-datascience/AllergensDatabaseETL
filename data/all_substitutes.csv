@@ -1,0 +1,82 @@
+,allergy_id,ingredient,substitute
+0,a002,fish,Tofu fish (‘tofish’)
+1,a002,fish,Smoked carrot salmon
+2,a002,fish,Banana blossom fish
+3,a002,fish,Jackfruit tuna
+4,a002,fish,"Seitan scampi, prawns, and shrimp"
+5,a002,fish,Vegan fish sticks and fillets
+6,a002,fish,Garbanzo bean fish-less cakes
+7,a002,fish,Mushroom fish pie
+8,a002,fish,Teriyaki chicken sushi rolls
+9,a002,fish,Fish sauce and flavorings
+10,a001,egg, Mashed banana
+11,a001,egg, Applesauce
+12,a001,egg, Fruit puree 
+13,a001,egg, Avocado
+14,a001,egg, Gelatin
+15,a001,egg, Xanthan gum
+16,a001,egg, Vegetable oil and baking powder 
+17,a001,egg, Margarine
+18,a001,egg, Flaxseeds
+19,a001,egg, Chia seeds
+20,a001,egg, Seeds and baking powder
+21,a001,egg, Powdered egg replacements
+22,a001,egg, Chickpea flour
+23,a001,egg, Firm tofu
+24,a001,egg, White beans
+25,a001,egg, Scrambled tofu
+26,a003,shellfish,BeLeaf: Plant-based shrimp
+27,a003,shellfish,Gardein: Fish-less filets and mini crab-less cakes
+28,a003,shellfish,"Good Catch: Fish-free tuna, crab cakes, fish-free fillets & burgers"
+29,a003,shellfish,Jinka: Plant-based tuna
+30,a003,shellfish,Loma Linda: Plant-based tuna
+31,a003,shellfish,New Wave: Plant-based shrimp
+32,a003,shellfish,Ocean Hugger Foods: Plant-based “raw” ahi
+33,a003,shellfish,Quorn: Fish-less sticks
+34,a003,shellfish,"Sophie’s Kitchen: Plant-based shrimp, smoked salmon, crab cakes, fish fillet"
+35,a006,soybean,Milk and eggs
+36,a006,soybean,Beans
+37,a006,soybean,Nuts
+38,a006,soybean,Seitan
+39,a006,soybean,Whole wheat
+40,a006,soybean,Quinoa
+41,a006,soybean,Flaxseed
+42,a006,soybean,Oat bran
+43,a004,milk,Lactose-Free Milk
+44,a004,milk,Goat’s Milk
+45,a004,milk,Rice Milk
+46,a004,milk,Hemp Milk
+47,a004,milk,Almond Milk
+48,a004,milk,Soy Milk
+49,a004,milk,Oat Milk
+50,a004,milk,Coconut Milk
+51,a004,milk,Cashew Milk
+52,a004,milk,Pea Milk
+53,a005,wheat, Oopsie Bread
+54,a005,wheat, Ezekiel Bread
+55,a005,wheat, Corn Tortillas
+56,a005,wheat, Rye Bread
+57,a005,wheat, Lettuce and Leafy Greens
+58,a005,wheat, Sweet Potatoes and Vegetables
+59,a005,wheat, Butternut Squash or Sweet Potato Flatbread
+60,a005,wheat, Cauliflower Bread or Pizza Crust
+61,a005,wheat, Eggs
+62,a005,wheat, Sourdough Bread
+63,a007,peanut,Sesame seeds
+64,a007,peanut,Sunflower seeds
+65,a007,peanut,Pumpkin and squash seeds
+66,a007,peanut,Hemp seeds and hemp hearts
+67,a007,peanut,Watermelon seeds
+68,a007,peanut,Chia seeds
+69,a007,peanut,Flax seeds
+70,a007,peanut,Pomegranate seeds
+71,a007,peanut,Papaya
+72,a008,treenut,Sesame seeds
+73,a008,treenut,Sunflower seeds
+74,a008,treenut,Pumpkin and squash seeds
+75,a008,treenut,Hemp seeds and hemp hearts
+76,a008,treenut,Watermelon seeds
+77,a008,treenut,Chia seeds
+78,a008,treenut,Flax seeds
+79,a008,treenut,Pomegranate seeds
+80,a008,treenut,Papaya

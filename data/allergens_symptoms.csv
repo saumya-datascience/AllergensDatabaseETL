@@ -1,0 +1,84 @@
+,allergens,symptoms
+0,egg,Vomiting
+1,egg,Stomach cramps
+2,egg,Indigestion
+3,egg,Diarrhea
+4,egg,Wheezing
+5,egg,"Shortness of breath, difficulty breathing"
+6,egg,Repetitive cough
+7,egg,"Tightness in throat, hoarse voice"
+8,egg,Weak pulse
+9,egg,Pale or blue coloring of the skin
+10,egg,Hives
+11,egg,"Swelling, can affect the tongue and/or lips"
+12,egg,Dizziness
+13,egg,Confusion
+14,milk,Hives
+15,milk,Stomach upset
+16,milk,Vomiting
+17,milk,"Bloody stools, especially in infants"
+18,milk,"Anaphylaxis, a rare, potentially life-threatening reaction that impairs breathing and can send the body into shock 
+"
+19,peanuts,Vomiting
+20,peanuts,Stomach cramps
+21,peanuts,Indigestion
+22,peanuts,Diarrhea
+23,peanuts,Wheezing
+24,peanuts,"Shortness of breath, difficulty breathing"
+25,peanuts,Repetitive cough
+26,peanuts,"Tightness in throat, hoarse voice"
+27,peanuts,Weak pulse
+28,peanuts,Pale or blue coloring of the skin
+29,peanuts,Hives 
+30,peanuts,"Swelling, can affect the tongue and/or lips"
+31,peanuts,Dizziness
+32,peanuts,Confusion
+33,tree nuts,"Abdominal pain, cramps, nausea and vomiting"
+34,tree nuts,Diarrhea
+35,tree nuts,Difficulty swallowing
+36,tree nuts,"Itching of the mouth, throat, eyes, skin or any other area"
+37,tree nuts,Nasal congestion or a runny nose
+38,tree nuts,Nausea
+39,tree nuts,Shortness of breath
+40,tree nuts,Anaphylaxis (less common)
+41,fish,Hives or a skin rash
+42,fish,"Nausea, stomach cramps, indigestion, vomiting and/or diarrhea"
+43,fish,Stuffy or runny nose and/or sneezing
+44,fish,Headaches
+45,fish,Asthma
+46,fish,"Anaphylaxis (less common), a potentially life-threatening reaction that impairs breathing and can cause the body to go into shock"
+47,shellfish,Vomiting
+48,shellfish,Stomach cramps
+49,shellfish,Indigestion
+50,shellfish,Diarrhea
+51,shellfish,Wheezing
+52,shellfish,"Shortness of breath, difficulty breathing"
+53,shellfish,Repetitive cough
+54,shellfish,"Tightness in throat, hoarse voice"
+55,shellfish,Weak pulse
+56,shellfish,Pale or blue coloring of the skin
+57,shellfish,Hives
+58,shellfish,"Swelling, can affect the tongue and/or lips"
+59,shellfish,Dizziness
+60,shellfish,Confusion
+61,wheat,Hives or skin rash
+62,wheat,"Nausea, stomach cramps, indigestion, vomiting or diarrhea"
+63,wheat,Stuffy or runny nose
+64,wheat,Sneezing
+65,wheat,Headaches
+66,wheat,Asthma
+67,wheat,"Anaphylaxis (less common), a potentially life-threatening reaction that can impair breathing and send the body into shock"
+68,soy,Vomiting
+69,soy,Stomach cramps
+70,soy,Indigestion
+71,soy,Diarrhea
+72,soy,Wheezing
+73,soy,"Shortness of breath, difficulty breathing"
+74,soy,Repetitive cough
+75,soy,"Tightness in throat, hoarse voice"
+76,soy,Weak pulse
+77,soy,Pale or blue coloring of the skin
+78,soy,Hives 
+79,soy,"Swelling, can affect the tongue and/or lips"
+80,soy,Dizziness
+81,soy,Confusion

@@ -1,0 +1,84 @@
+,allergy_id,ingredient,symptoms
+0,a001,egg,Vomiting
+1,a001,egg,Stomach cramps
+2,a001,egg,Indigestion
+3,a001,egg,Diarrhea
+4,a001,egg,Wheezing
+5,a001,egg,"Shortness of breath, difficulty breathing"
+6,a001,egg,Repetitive cough
+7,a001,egg,"Tightness in throat, hoarse voice"
+8,a001,egg,Weak pulse
+9,a001,egg,Pale or blue coloring of the skin
+10,a001,egg,Hives
+11,a001,egg,"Swelling, can affect the tongue and/or lips"
+12,a001,egg,Dizziness
+13,a001,egg,Confusion
+14,a004,milk,Hives
+15,a004,milk,Stomach upset
+16,a004,milk,Vomiting
+17,a004,milk,"Bloody stools, especially in infants"
+18,a004,milk,"Anaphylaxis, a rare, potentially life-threatening reaction that impairs breathing and can send the body into shock 
+"
+19,a007,peanut,Vomiting
+20,a007,peanut,Stomach cramps
+21,a007,peanut,Indigestion
+22,a007,peanut,Diarrhea
+23,a007,peanut,Wheezing
+24,a007,peanut,"Shortness of breath, difficulty breathing"
+25,a007,peanut,Repetitive cough
+26,a007,peanut,"Tightness in throat, hoarse voice"
+27,a007,peanut,Weak pulse
+28,a007,peanut,Pale or blue coloring of the skin
+29,a007,peanut,Hives 
+30,a007,peanut,"Swelling, can affect the tongue and/or lips"
+31,a007,peanut,Dizziness
+32,a007,peanut,Confusion
+33,a008,treenut,"Abdominal pain, cramps, nausea and vomiting"
+34,a008,treenut,Diarrhea
+35,a008,treenut,Difficulty swallowing
+36,a008,treenut,"Itching of the mouth, throat, eyes, skin or any other area"
+37,a008,treenut,Nasal congestion or a runny nose
+38,a008,treenut,Nausea
+39,a008,treenut,Shortness of breath
+40,a008,treenut,Anaphylaxis (less common)
+41,a002,fish,Hives or a skin rash
+42,a002,fish,"Nausea, stomach cramps, indigestion, vomiting and/or diarrhea"
+43,a002,fish,Stuffy or runny nose and/or sneezing
+44,a002,fish,Headaches
+45,a002,fish,Asthma
+46,a002,fish,"Anaphylaxis (less common), a potentially life-threatening reaction that impairs breathing and can cause the body to go into shock"
+47,a003,shellfish,Vomiting
+48,a003,shellfish,Stomach cramps
+49,a003,shellfish,Indigestion
+50,a003,shellfish,Diarrhea
+51,a003,shellfish,Wheezing
+52,a003,shellfish,"Shortness of breath, difficulty breathing"
+53,a003,shellfish,Repetitive cough
+54,a003,shellfish,"Tightness in throat, hoarse voice"
+55,a003,shellfish,Weak pulse
+56,a003,shellfish,Pale or blue coloring of the skin
+57,a003,shellfish,Hives
+58,a003,shellfish,"Swelling, can affect the tongue and/or lips"
+59,a003,shellfish,Dizziness
+60,a003,shellfish,Confusion
+61,a005,wheat,Hives or skin rash
+62,a005,wheat,"Nausea, stomach cramps, indigestion, vomiting or diarrhea"
+63,a005,wheat,Stuffy or runny nose
+64,a005,wheat,Sneezing
+65,a005,wheat,Headaches
+66,a005,wheat,Asthma
+67,a005,wheat,"Anaphylaxis (less common), a potentially life-threatening reaction that can impair breathing and send the body into shock"
+68,a006,soybean,Vomiting
+69,a006,soybean,Stomach cramps
+70,a006,soybean,Indigestion
+71,a006,soybean,Diarrhea
+72,a006,soybean,Wheezing
+73,a006,soybean,"Shortness of breath, difficulty breathing"
+74,a006,soybean,Repetitive cough
+75,a006,soybean,"Tightness in throat, hoarse voice"
+76,a006,soybean,Weak pulse
+77,a006,soybean,Pale or blue coloring of the skin
+78,a006,soybean,Hives 
+79,a006,soybean,"Swelling, can affect the tongue and/or lips"
+80,a006,soybean,Dizziness
+81,a006,soybean,Confusion

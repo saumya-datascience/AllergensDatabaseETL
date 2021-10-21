@@ -1,0 +1,165 @@
+,ingredient,products,allergy_id
+0,fish,Croquettes - Goya,a002
+1,fish,Coldfish - Goya,a002
+2,fish,"Goya, premium sardines in spicy oil",a002
+3,fish,Premium Sardines In Olive Oil - Goya,a002
+4,fish,Select Spanish Olives Stuffed With Minced Anchovies - Goya,a002
+5,fish,Premium sardines with lemon in oil - Goya,a002
+6,fish,Sardines In Tomato Sauce - Goya,a002
+7,fish,"Sardines in tomato sauce, tomato sauce - Goya",a002
+8,fish,"Goya, sardines in vegetable oil",a002
+9,fish,"Goya, codfish in biscayan sauce",a002
+10,fish,"Stuffed olives, minced tuna - Goya",a002
+11,fish,"Goya, bacalaitos codfish fritter mix",a002
+12,fish,"Goya, tinapa, sardines in tomato sauce",a002
+13,fish,"Goya, tinapa, sardines in hot tomato sauce, hot",a002
+14,fish,"Goya, macarela",a002
+15,egg,Mayo-ketchup - Goya,a001
+16,egg,Ham Croquettes - Goya,a001
+17,egg,Spinach empanadas - Goya,a001
+18,egg,Croquettes - Goya,a001
+19,egg,Authentic Style Rice Pilaf - Goya,a001
+20,egg,Chicken Croquettes - Goya,a001
+21,egg,Baked Beef Empanadas - Goya,a001
+22,egg,Baked empanadas - Goya,a001
+23,egg,Mayonnaise - Goya,a001
+24,egg,"Goya, latin style bread crumbs",a001
+25,egg,Mexican Style Stuffed Peppers Rellenos - Goya,a001
+26,egg,Tequenos South American Cheese Sticks - Goya,a001
+27,shellfish,Octopus In Olive Oil - Goya,a003
+28,shellfish,"Goya, premium mussels in pickled sauce",a003
+29,soybean,Soda Crackers - Goya,a006
+30,soybean,Chicken Croquettes - Goya,a006
+31,soybean,"Goya, Crackers",a006
+32,soybean,"Goya, Cracker Meal",a006
+33,soybean,"Goya, Hoppin' John Seasoned Rice With Blackeye Peas",a006
+34,soybean,"Goya, Crackers, Butter",a006
+35,soybean,"Goya, Snack Crackers",a006
+36,soybean,"Goya, Snack Crackers, Whole Wheat",a006
+37,soybean,"Rice & Pigeon Peas, Authentic Caribbean Recipe - Goya",a006
+38,soybean,Wafers - Goya,a006
+39,soybean,Coconut Wafers - Goya,a006
+40,soybean,"Wafers, Chocolate - Goya",a006
+41,soybean,Guava Waffers - Goya,a006
+42,soybean,Ham Croquettes - Goya,a006
+43,soybean,Croquettes - Goya,a006
+44,soybean,"Goya, Latin Style Bread Crumbs",a006
+45,soybean,Discos Dough For Turnover Pastries - Goya,a006
+46,soybean,Dough For Turnover Pastries - Goya,a006
+47,soybean,"Mini Discos, Para Empanadas Dough - Goya",a006
+48,soybean,Maduros Ripe Plantains - Goya,a006
+49,soybean,Ripe Plantains - Goya,a006
+50,soybean,Mini Discos Dough For Turnover Pastries - Goya,a006
+51,soybean,Chicken Flavored Rice - Goya,a006
+52,soybean,Chocolate Wafers - Goya,a006
+53,soybean,"Goya, Dough For Turnover Pastries",a006
+54,soybean,"Goya, Fiesta Rice With Wild Rice & Vegetables",a006
+55,soybean,"Goya, Country Style Rice & Cheese Sauce, Broccoli & Cheddar",a006
+56,milk,"Goya, country style rice & cheese sauce, broccoli & cheddar",a004
+57,milk,Jamaican Style Beef Patties - Goya,a004
+58,milk,Ham Croquettes - Goya,a004
+59,milk,Cheese Croquettes - Goya,a004
+60,milk,Croquettes - Goya,a004
+61,milk,Chicken Croquettes - Goya,a004
+62,milk,Baked Beef Empanadas - Goya,a004
+63,milk,"Dulce De Leche, Milk Caramel Spread - Goya",a004
+64,milk,Tequenos South American Cheese Sticks - Goya,a004
+65,milk,Chicken Empanadas - Goya,a004
+66,milk,Vitamin D Added Evaporated Milk - Goya,a004
+67,milk,"Goya, corn arepa filled with cheese",a004
+68,milk,"Goya, sweet corn arepa filled with mozarella cheese",a004
+69,milk,"Goya, yucca arepas filled with cheese",a004
+70,milk,Milk Caramel Spread - Goya,a004
+71,milk,"Goya, latin style bread crumbs",a004
+72,milk,Potato Puffs - Goya,a004
+73,milk,White Cheese - Goya,a004
+74,milk,"Goya, queso blanc",a004
+75,milk,"Goya, pan molido bread crumbs",a004
+76,milk,Mexican Style Stuffed Peppers Rellenos - Goya,a004
+77,milk,Leche de coco - Goya - 400 ml e,a004
+78,milk,Coconut Milk - Goya - 400 ml,a004
+79,milk,Cream Of Coconut - Goya,a004
+80,milk,Reduced Fat Coconut Milk - Goya,a004
+81,milk,Coconut Milk - Goya,a004
+82,milk,"Goya, coconut milk drink",a004
+83,milk,"Goya, cream of beans with coconut",a004
+84,milk,"Goya, premium green pigeon peas with coconut",a004
+85,milk,Coconut Milk Drink - Goya,a004
+86,milk,Chorizo Croquettes - Goya,a004
+87,milk,Wafers - Goya,a004
+88,milk,Coconut water with chocolate - Goya,a004
+89,milk,"Goya, wafers duplex, vanilla, strawberry",a004
+90,milk,Vanilla Wafers - Goya,a004
+91,milk,Mole - Goya,a004
+92,milk,"Chorizo Croquettes, Tasty Homestyle Chorizo Filled Delights - Goya",a004
+93,milk,"Goya, wafers, dulce de leche",a004
+94,milk,Cheese Empanadas - Goya,a004
+95,milk,"Goya, manchego cheese",a004
+96,milk,Spinach empanadas - Goya,a004
+97,milk,"Goya, pupusas (stuffed corn tortillas), cheese",a004
+98,milk,"Goya, rice primavera, spring vegetables & cheddar",a004
+99,wheat,Discos Dough For Turnover Pastries - Goya,a005
+100,wheat,Jamaican Style Beef Patties - Goya,a005
+101,wheat,Spanish rice - Goya,a005
+102,wheat,Soda Crackers - Goya,a005
+103,wheat,Marinade - Goya,a005
+104,wheat,Dough For Turnover Pastries - Goya,a005
+105,wheat,Maria Cookies - Goya,a005
+106,wheat,Ham Croquettes - Goya,a005
+107,wheat,Chorizo Croquettes - Goya,a005
+108,wheat,Spinach empanadas - Goya,a005
+109,wheat,Cheese Croquettes - Goya,a005
+110,wheat,Wafers - Goya,a005
+111,wheat,Croquettes - Goya,a005
+112,wheat,Authentic Churros Pastry Snack - Goya,a005
+113,wheat,Authentic Style Rice Pilaf - Goya,a005
+114,wheat,Chicken Croquettes - Goya,a005
+115,wheat,Baked Beef Empanadas - Goya,a005
+116,wheat,Coconut wafers - Goya,a005
+117,wheat,"Mini Discos, Para Empanadas Dough - Goya",a005
+118,wheat,Mini Discos Dough For Turnover Pastries - Goya,a005
+119,wheat,"Wafers, chocolate - Goya",a005
+120,wheat,Guava waffers - Goya,a005
+121,wheat,Baked empanadas - Goya,a005
+122,wheat,Tequenos South American Cheese Sticks - Goya,a005
+123,wheat,Chicken Empanadas - Goya,a005
+124,wheat,Cheese Empanadas - Goya,a005
+125,wheat,Sugar Free Maria Cookies - Goya,a005
+126,wheat,"Goya, dough for turnover pastries",a005
+127,wheat,Roast Beef & Gravy - Goya,a005
+128,wheat,"Goya, wafers duplex, vanilla, strawberry",a005
+129,wheat,"Goya, beef empanadas",a005
+130,wheat,"Goya, wafers, dulce de leche",a005
+131,wheat,"Goya, vanilla wafers, mango",a005
+132,wheat,"Goya, coconut wafers",a005
+133,wheat,Alphabet Enriched Macaroni Product - Goya,a005
+134,wheat,"Goya, small elbow noodles",a005
+135,wheat,Shells - Goya,a005
+136,wheat,Vanilla Wafers - Goya,a005
+137,wheat,Guava Wafers - Goya,a005
+138,wheat,Chocolate Wafers - Goya,a005
+139,wheat,"Goya, strawberry wafers",a005
+140,wheat,"Goya, latin style bread crumbs",a005
+141,wheat,Palmeritas - Goya,a005
+142,wheat,Potato Puffs - Goya,a005
+143,wheat,"Goya, fideline, enriched macaroni product",a005
+144,wheat,"Goya, crackers",a005
+145,wheat,Dough for turnover pastries - Goya,a005
+146,wheat,"Goya, maria cookies",a005
+147,wheat,"Goya, cracker meal",a005
+148,wheat,"Goya, bacalaitos codfish fritter mix",a005
+149,wheat,Chicken flavored rice - Goya,a005
+150,wheat,Angel hair - Goya,a005
+151,wheat,"Goya, crackers, butter",a005
+152,wheat,"Goya, snack crackers",a005
+153,wheat,"Goya, snack crackers, whole wheat",a005
+154,wheat,Mexican Style Stuffed Peppers Rellenos - Goya,a005
+155,wheat,"Goya, pan molido bread crumbs",a005
+156,wheat,"Rice & Pigeon Peas, Authentic Caribbean Recipe - Goya",a005
+157,wheat,Tomato cooking paste - Goya,a005
+158,wheat,Sofrito Cooking Base - Goya - 24 oz,a005
+159,wheat,Sofrito - Goya,a005
+160,wheat,"Goya, wheat flour",a005
+161,wheat,Beef Stew With Rice - Goya,a005
+162,peanut,Mole - Goya,a007
+163,treenut,Mole - Goya,a008
