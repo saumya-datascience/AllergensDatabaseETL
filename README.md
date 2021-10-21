@@ -6,7 +6,7 @@
 - [Extraction, Transformation, Load Process](https://github.com/Andyjag91/Allergens-in-Goya-Food-Products-/blob/main/README.md#extraction-transform-load-process)
 - [Example Queries](https://github.com/Andyjag91/Allergens-in-Goya-Food-Products-/blob/main/README.md#example-queries)
 - [Hypothetical Questions](https://github.com/Andyjag91/Allergens-in-Goya-Food-Products-/blob/main/README.md#hypothetical-questions)
-- [Contacts](https://github.com/Andyjag91/Allergens-in-Goya-Food-Products-/blob/main/README.md#contacts)
+
 
 ## Project Summary
 
