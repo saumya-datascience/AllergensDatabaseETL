@@ -10,7 +10,7 @@
 
 ## Project Summary
 
-This project is aimed at creating a database for customers with food allergies.To linit the scope of the project, I decided to concentrate on the list of products from Goya. Using this database, customers will be able to query ingredients to avoid based on their allergies.  The database compares Goya food products based on ingredients with a list of food allergens. This database also provides the food substitutes and lastly the list of symptoms one may experience with each food allergen. We focused on the 8 major food allergens. They are as follows:
+This project is aimed at creating a database for customers with food allergies.To linit the scope of the project, I decided to concentrate on the list of products from Goya. Using this database, customers will be able to query ingredients to avoid based on their allergies.  The database compares Goya food products based on ingredients with a list of food allergens. This database also provides the food substitutes and  the list of symptoms one may experience with each food allergen. We focused on the 8 major food allergens. They are as follows:
  - Milk 
  - Eggs
  - Fish
